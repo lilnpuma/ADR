@@ -1,4 +1,6 @@
 # Systems Engineering Exercise: Autonomous Deliver Robot (ADR)
+![GitHub](https://img.shields.io/github/license/lilnpuma/ADR)
+
 The project consists of simulating simplified versions of the systems engineering management, requirements, architecture, and analysis activities associated with a real-world system development project, an autonomous delivery robot.
 
 The project documents are consistent with [INCOSE’s Graduate Reference Curriculum for Systems Engineering (GRCSE)](https://www.incose.org/products-and-publications/se-graduate-reference-curriculum) and the [INCOSE Systems Engineering Handbook (SEHB)](https://www.incose.org/products-and-publications/se-handbook).
